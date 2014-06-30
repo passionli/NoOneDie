@@ -100,25 +100,31 @@ public class NoOneDie extends Cocos2dxActivity {
 		}, 100);
 	}
 
-	public static void rate(){
-		Log.d(TAG,"in the rate method");
+	public static void rate() {
+		Log.d(TAG, "in the rate method");
 		try {
-			Uri uri = Uri.parse("market://details?id=" + mActivity.getPackageName());
+			Uri uri = Uri.parse("market://details?id="
+					+ mActivity.getPackageName());
 			Intent intent = new Intent(Intent.ACTION_VIEW, uri);
 			intent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
 			mActivity.startActivity(intent);
 		} catch (Exception e) {
-			Toast.makeText(mActivity, "无法打开应用市场!",
-					Toast.LENGTH_LONG).show();
+			Toast.makeText(mActivity, "无法打开应用市场!", Toast.LENGTH_LONG).show();
 		}
 	}
 
-	public static void shareScore(int score){
-		Log.d(TAG,"share Score : " +score);
-		Intent sendIntent = new Intent();
-		sendIntent.setAction(Intent.ACTION_SEND);
-		sendIntent.putExtra(Intent.EXTRA_TEXT, "我在世界杯中过了 "+score+" 个人！已经无敌了！来。挑战一下我吧~~");
-		sendIntent.setType("text/plain");
+	public static void shareScore(int score) {
+		Intent sendIntent = new Intent(Intent.ACTION_SEND);
+		sendIntent.setType("image/*");
+		Uri uri = Uri.parse("file:////data/data/"
+				+ mActivity.getApplicationInfo().packageName + "/files/share.jpg");
+		sendIntent.putExtra(Intent.EXTRA_STREAM, uri);
+		//用于一般的分享
+		sendIntent.putExtra(Intent.EXTRA_TEXT, "我在世界杯中过了 " + score
+				+ " 个人！已经无敌了！来。挑战一下我吧~~");
+		//用于微信的分享
+		sendIntent.putExtra("Kdescription", "我在世界杯中过了 " + score
+				+ " 个人！已经无敌了！来。挑战一下我吧~~");
 		mActivity.startActivity(Intent.createChooser(sendIntent, "来，分享一下"));
 	}
 }

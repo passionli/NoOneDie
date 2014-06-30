@@ -8,6 +8,7 @@ LOCAL_MODULE_FILENAME := libcocos2dcpp
 
 LOCAL_SRC_FILES := hellocpp/main.cpp \
                    ../../Classes/AppDelegate.cpp \
+				   ../../Classes/XmlParser.cpp \
                    ../../Classes/MainMenu.cpp \
                    ../../Classes/GameFailureScene.cpp \
 

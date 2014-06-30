@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="score">得分</string>
+	<string name="best">最高</string>
+	<string name="train">练习赛</string>
+	<string name="warmUp">热身赛</string>
+	<string name="career">职业赛</string>
+	<string name="worldCup">世界杯</string>
+	<string name="share">炫耀</string>
+	<string name="retry">再来</string>
+	<string name="return">返回</string>
+	<string name="newHighScore">新的最高分</string>
+</resources>

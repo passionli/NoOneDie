@@ -11,6 +11,7 @@ public:
     static cocos2d::CCScene* scene();
     
     void menuShareCallback(CCObject* pSender);
+	void menuReturnCallback(CCObject* pSender);
 	void menuRetryCallback(CCObject* pSender);
     CREATE_FUNC(GameFailureScene);
 };

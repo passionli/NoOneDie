@@ -205,7 +205,7 @@ obj/local/armeabi/objs/cocos2dcpp_shared/__/__/Classes/MainMenu.o: \
  /cygdrive/g/gamedev/cocos2d-x-2.2.2/cocos2d-x-2.2.2/projects/NoOneDie/proj.android/../../../cocos2dx/support/component/CCComponentContainer.h \
  /cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-15/arch-arm/usr/include/jni.h \
  /cygdrive/g/gamedev/cocos2d-x-2.2.2/cocos2d-x-2.2.2/projects/NoOneDie/proj.android/../../../cocos2dx/platform/android/jni/JniHelper.h \
- jni/../../Classes/IconvString.h jni/../../Classes/GameFailureScene.h
+ jni/../../Classes/GameFailureScene.h
 
 jni/../../Classes/MainMenu.h:
 
@@ -618,7 +618,5 @@ jni/../../Classes/MainMenu.h:
 /cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-15/arch-arm/usr/include/jni.h:
 
 /cygdrive/g/gamedev/cocos2d-x-2.2.2/cocos2d-x-2.2.2/projects/NoOneDie/proj.android/../../../cocos2dx/platform/android/jni/JniHelper.h:
-
-jni/../../Classes/IconvString.h:
 
 jni/../../Classes/GameFailureScene.h:

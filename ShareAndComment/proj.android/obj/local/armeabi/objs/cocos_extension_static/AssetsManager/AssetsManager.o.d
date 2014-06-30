@@ -11,36 +11,36 @@ obj/local/armeabi/objs/cocos_extension_static/AssetsManager/AssetsManager.o: \
  /cygdrive/g/gamedev/cocos2d-x-2.2.2/cocos2d-x-2.2.2/projects/NoOneDie/proj.android/../../../cocos2dx/include/ccConfig.h \
  /cygdrive/g/gamedev/cocos2d-x-2.2.2/cocos2d-x-2.2.2/projects/NoOneDie/proj.android/../../../cocos2dx/platform/CCPlatformConfig.h \
  /cygdrive/g/gamedev/cocos2d-x-2.2.2/cocos2d-x-2.2.2/projects/NoOneDie/proj.android/../../../cocos2dx/platform/android/CCPlatformDefine.h \
- /cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-8/arch-arm/usr/include/android/log.h \
+ /cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-15/arch-arm/usr/include/android/log.h \
  /cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/sources/cxx-stl/gnu-libstdc++/4.6/include/string \
  /cygdrive/g/gamedev/cocos2d-x-2.2.2/cocos2d-x-2.2.2/projects/NoOneDie/proj.android/../../../cocos2dx/cocoa/CCGeometry.h \
  /cygdrive/g/gamedev/cocos2d-x-2.2.2/cocos2d-x-2.2.2/projects/NoOneDie/proj.android/../../../cocos2dx/cocoa/CCObject.h \
- /cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-8/arch-arm/usr/include/math.h \
+ /cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-15/arch-arm/usr/include/math.h \
  /cygdrive/g/gamedev/cocos2d-x-2.2.2/cocos2d-x-2.2.2/projects/NoOneDie/proj.android/../../../cocos2dx/actions/CCActionInterval.h \
  /cygdrive/g/gamedev/cocos2d-x-2.2.2/cocos2d-x-2.2.2/projects/NoOneDie/proj.android/../../../cocos2dx/base_nodes/CCNode.h \
  /cygdrive/g/gamedev/cocos2d-x-2.2.2/cocos2d-x-2.2.2/projects/NoOneDie/proj.android/../../../cocos2dx/include/ccMacros.h \
  /cygdrive/g/gamedev/cocos2d-x-2.2.2/cocos2d-x-2.2.2/projects/NoOneDie/proj.android/../../../cocos2dx/platform/CCCommon.h \
  /cygdrive/g/gamedev/cocos2d-x-2.2.2/cocos2d-x-2.2.2/projects/NoOneDie/proj.android/../../../cocos2dx/platform/CCPlatformMacros.h \
  /cygdrive/g/gamedev/cocos2d-x-2.2.2/cocos2d-x-2.2.2/projects/NoOneDie/proj.android/../../../cocos2dx/platform/android/CCStdC.h \
- /cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-8/arch-arm/usr/include/stdlib.h \
- /cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-8/arch-arm/usr/include/alloca.h \
- /cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-8/arch-arm/usr/include/strings.h \
- /cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-8/arch-arm/usr/include/memory.h \
+ /cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-15/arch-arm/usr/include/stdlib.h \
+ /cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-15/arch-arm/usr/include/alloca.h \
+ /cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-15/arch-arm/usr/include/strings.h \
+ /cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-15/arch-arm/usr/include/memory.h \
  /cygdrive/g/gamedev/cocos2d-x-2.2.2/cocos2d-x-2.2.2/projects/NoOneDie/proj.android/../../../cocos2dx/cocoa/CCAffineTransform.h \
  /cygdrive/g/gamedev/cocos2d-x-2.2.2/cocos2d-x-2.2.2/projects/NoOneDie/proj.android/../../../cocos2dx/cocoa/CCGeometry.h \
  /cygdrive/g/gamedev/cocos2d-x-2.2.2/cocos2d-x-2.2.2/projects/NoOneDie/proj.android/../../../cocos2dx/cocoa/CCArray.h \
  /cygdrive/g/gamedev/cocos2d-x-2.2.2/cocos2d-x-2.2.2/projects/NoOneDie/proj.android/../../../cocos2dx/support/data_support/ccCArray.h \
  /cygdrive/g/gamedev/cocos2d-x-2.2.2/cocos2d-x-2.2.2/projects/NoOneDie/proj.android/../../../cocos2dx/platform/android/CCGL.h \
- /cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-8/arch-arm/usr/include/GLES2/gl2platform.h \
- /cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-8/arch-arm/usr/include/KHR/khrplatform.h \
- /cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-8/arch-arm/usr/include/GLES2/gl2.h \
- /cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-8/arch-arm/usr/include/GLES2/gl2ext.h \
+ /cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-15/arch-arm/usr/include/GLES2/gl2platform.h \
+ /cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-15/arch-arm/usr/include/KHR/khrplatform.h \
+ /cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-15/arch-arm/usr/include/GLES2/gl2.h \
+ /cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-15/arch-arm/usr/include/GLES2/gl2ext.h \
  /cygdrive/g/gamedev/cocos2d-x-2.2.2/cocos2d-x-2.2.2/projects/NoOneDie/proj.android/../../../cocos2dx/shaders/ccGLStateCache.h \
  /cygdrive/g/gamedev/cocos2d-x-2.2.2/cocos2d-x-2.2.2/projects/NoOneDie/proj.android/../../../cocos2dx/shaders/CCGLProgram.h \
  /cygdrive/g/gamedev/cocos2d-x-2.2.2/cocos2d-x-2.2.2/projects/NoOneDie/proj.android/../../../cocos2dx/kazmath/include/kazmath/kazmath.h \
  /cygdrive/g/gamedev/cocos2d-x-2.2.2/cocos2d-x-2.2.2/projects/NoOneDie/proj.android/../../../cocos2dx/kazmath/include/kazmath/vec2.h \
  /cygdrive/g/gamedev/cocos2d-x-2.2.2/cocos2d-x-2.2.2/projects/NoOneDie/proj.android/../../../cocos2dx/kazmath/include/kazmath/vec3.h \
- /cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-8/arch-arm/usr/include/assert.h \
+ /cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-15/arch-arm/usr/include/assert.h \
  /cygdrive/g/gamedev/cocos2d-x-2.2.2/cocos2d-x-2.2.2/projects/NoOneDie/proj.android/../../../cocos2dx/kazmath/include/kazmath/mat3.h \
  /cygdrive/g/gamedev/cocos2d-x-2.2.2/cocos2d-x-2.2.2/projects/NoOneDie/proj.android/../../../cocos2dx/kazmath/include/kazmath/utility.h \
  /cygdrive/g/gamedev/cocos2d-x-2.2.2/cocos2d-x-2.2.2/projects/NoOneDie/proj.android/../../../cocos2dx/kazmath/include/kazmath/mat4.h \
@@ -66,7 +66,7 @@ obj/local/armeabi/objs/cocos_extension_static/AssetsManager/AssetsManager.o: \
  /cygdrive/g/gamedev/cocos2d-x-2.2.2/cocos2d-x-2.2.2/projects/NoOneDie/proj.android/../../../cocos2dx/sprite_nodes/CCAnimation.h \
  /cygdrive/g/gamedev/cocos2d-x-2.2.2/cocos2d-x-2.2.2/projects/NoOneDie/proj.android/../../../cocos2dx/cocoa/CCDictionary.h \
  /cygdrive/g/gamedev/cocos2d-x-2.2.2/cocos2d-x-2.2.2/projects/NoOneDie/proj.android/../../../cocos2dx/support/data_support/uthash.h \
- /cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-8/arch-arm/usr/include/inttypes.h \
+ /cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-15/arch-arm/usr/include/inttypes.h \
  /cygdrive/g/gamedev/cocos2d-x-2.2.2/cocos2d-x-2.2.2/projects/NoOneDie/proj.android/../../../cocos2dx/cocoa/CCArray.h \
  /cygdrive/g/gamedev/cocos2d-x-2.2.2/cocos2d-x-2.2.2/projects/NoOneDie/proj.android/../../../cocos2dx/cocoa/CCString.h \
  /cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/sources/cxx-stl/gnu-libstdc++/4.6/include/functional \
@@ -208,30 +208,30 @@ obj/local/armeabi/objs/cocos_extension_static/AssetsManager/AssetsManager.o: \
  /cygdrive/g/gamedev/cocos2d-x-2.2.2/cocos2d-x-2.2.2/projects/NoOneDie/proj.android/../../../cocos2dx/platform/third_party/android/prebuilt/libcurl/include/curl/curl.h \
  /cygdrive/g/gamedev/cocos2d-x-2.2.2/cocos2d-x-2.2.2/projects/NoOneDie/proj.android/../../../cocos2dx/platform/third_party/android/prebuilt/libcurl/include/curl/curlver.h \
  /cygdrive/g/gamedev/cocos2d-x-2.2.2/cocos2d-x-2.2.2/projects/NoOneDie/proj.android/../../../cocos2dx/platform/third_party/android/prebuilt/libcurl/include/curl/curlbuild.h \
- /cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-8/arch-arm/usr/include/sys/socket.h \
- /cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-8/arch-arm/usr/include/linux/socket.h \
- /cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-8/arch-arm/usr/include/asm/socket.h \
- /cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-8/arch-arm/usr/include/asm/sockios.h \
- /cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-8/arch-arm/usr/include/linux/sockios.h \
- /cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-8/arch-arm/usr/include/linux/uio.h \
+ /cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-15/arch-arm/usr/include/sys/socket.h \
+ /cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-15/arch-arm/usr/include/linux/socket.h \
+ /cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-15/arch-arm/usr/include/asm/socket.h \
+ /cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-15/arch-arm/usr/include/asm/sockios.h \
+ /cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-15/arch-arm/usr/include/linux/sockios.h \
+ /cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-15/arch-arm/usr/include/linux/uio.h \
  /cygdrive/g/gamedev/cocos2d-x-2.2.2/cocos2d-x-2.2.2/projects/NoOneDie/proj.android/../../../cocos2dx/platform/third_party/android/prebuilt/libcurl/include/curl/curlrules.h \
  /cygdrive/g/gamedev/cocos2d-x-2.2.2/cocos2d-x-2.2.2/projects/NoOneDie/proj.android/../../../cocos2dx/platform/third_party/android/prebuilt/libcurl/include/curl/easy.h \
  /cygdrive/g/gamedev/cocos2d-x-2.2.2/cocos2d-x-2.2.2/projects/NoOneDie/proj.android/../../../cocos2dx/platform/third_party/android/prebuilt/libcurl/include/curl/multi.h \
  /cygdrive/g/gamedev/cocos2d-x-2.2.2/cocos2d-x-2.2.2/projects/NoOneDie/proj.android/../../../cocos2dx/platform/third_party/android/prebuilt/libcurl/include/curl/curl.h \
  /cygdrive/g/gamedev/cocos2d-x-2.2.2/cocos2d-x-2.2.2/projects/NoOneDie/proj.android/../../../cocos2dx/platform/third_party/android/prebuilt/libcurl/include/curl/easy.h \
- /cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-8/arch-arm/usr/include/sys/stat.h \
- /cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-8/arch-arm/usr/include/linux/stat.h \
- /cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-8/arch-arm/usr/include/endian.h \
- /cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-8/arch-arm/usr/include/sys/endian.h \
- /cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-8/arch-arm/usr/include/machine/endian.h \
- /cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-8/arch-arm/usr/include/errno.h \
- /cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-8/arch-arm/usr/include/linux/errno.h \
- /cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-8/arch-arm/usr/include/asm/errno.h \
- /cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-8/arch-arm/usr/include/asm-generic/errno.h \
- /cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-8/arch-arm/usr/include/asm-generic/errno-base.h \
+ /cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-15/arch-arm/usr/include/sys/stat.h \
+ /cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-15/arch-arm/usr/include/linux/stat.h \
+ /cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-15/arch-arm/usr/include/endian.h \
+ /cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-15/arch-arm/usr/include/sys/endian.h \
+ /cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-15/arch-arm/usr/include/machine/endian.h \
+ /cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-15/arch-arm/usr/include/errno.h \
+ /cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-15/arch-arm/usr/include/linux/errno.h \
+ /cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-15/arch-arm/usr/include/asm/errno.h \
+ /cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-15/arch-arm/usr/include/asm-generic/errno.h \
+ /cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-15/arch-arm/usr/include/asm-generic/errno-base.h \
  /cygdrive/g/gamedev/cocos2d-x-2.2.2/cocos2d-x-2.2.2/projects/NoOneDie/proj.android/../../../cocos2dx/support/zip_support/unzip.h \
- /cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-8/arch-arm/usr/include/zlib.h \
- /cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-8/arch-arm/usr/include/zconf.h \
+ /cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-15/arch-arm/usr/include/zlib.h \
+ /cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-15/arch-arm/usr/include/zconf.h \
  /cygdrive/g/gamedev/cocos2d-x-2.2.2/cocos2d-x-2.2.2/projects/NoOneDie/proj.android/../../../cocos2dx/support/zip_support/ioapi.h
 
 /cygdrive/g/gamedev/cocos2d-x-2.2.2/cocos2d-x-2.2.2/projects/NoOneDie/proj.android/../../../extensions/AssetsManager/AssetsManager.h:
@@ -256,7 +256,7 @@ obj/local/armeabi/objs/cocos_extension_static/AssetsManager/AssetsManager.o: \
 
 /cygdrive/g/gamedev/cocos2d-x-2.2.2/cocos2d-x-2.2.2/projects/NoOneDie/proj.android/../../../cocos2dx/platform/android/CCPlatformDefine.h:
 
-/cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-8/arch-arm/usr/include/android/log.h:
+/cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-15/arch-arm/usr/include/android/log.h:
 
 /cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/sources/cxx-stl/gnu-libstdc++/4.6/include/string:
 
@@ -264,7 +264,7 @@ obj/local/armeabi/objs/cocos_extension_static/AssetsManager/AssetsManager.o: \
 
 /cygdrive/g/gamedev/cocos2d-x-2.2.2/cocos2d-x-2.2.2/projects/NoOneDie/proj.android/../../../cocos2dx/cocoa/CCObject.h:
 
-/cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-8/arch-arm/usr/include/math.h:
+/cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-15/arch-arm/usr/include/math.h:
 
 /cygdrive/g/gamedev/cocos2d-x-2.2.2/cocos2d-x-2.2.2/projects/NoOneDie/proj.android/../../../cocos2dx/actions/CCActionInterval.h:
 
@@ -278,13 +278,13 @@ obj/local/armeabi/objs/cocos_extension_static/AssetsManager/AssetsManager.o: \
 
 /cygdrive/g/gamedev/cocos2d-x-2.2.2/cocos2d-x-2.2.2/projects/NoOneDie/proj.android/../../../cocos2dx/platform/android/CCStdC.h:
 
-/cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-8/arch-arm/usr/include/stdlib.h:
+/cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-15/arch-arm/usr/include/stdlib.h:
 
-/cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-8/arch-arm/usr/include/alloca.h:
+/cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-15/arch-arm/usr/include/alloca.h:
 
-/cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-8/arch-arm/usr/include/strings.h:
+/cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-15/arch-arm/usr/include/strings.h:
 
-/cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-8/arch-arm/usr/include/memory.h:
+/cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-15/arch-arm/usr/include/memory.h:
 
 /cygdrive/g/gamedev/cocos2d-x-2.2.2/cocos2d-x-2.2.2/projects/NoOneDie/proj.android/../../../cocos2dx/cocoa/CCAffineTransform.h:
 
@@ -296,13 +296,13 @@ obj/local/armeabi/objs/cocos_extension_static/AssetsManager/AssetsManager.o: \
 
 /cygdrive/g/gamedev/cocos2d-x-2.2.2/cocos2d-x-2.2.2/projects/NoOneDie/proj.android/../../../cocos2dx/platform/android/CCGL.h:
 
-/cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-8/arch-arm/usr/include/GLES2/gl2platform.h:
+/cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-15/arch-arm/usr/include/GLES2/gl2platform.h:
 
-/cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-8/arch-arm/usr/include/KHR/khrplatform.h:
+/cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-15/arch-arm/usr/include/KHR/khrplatform.h:
 
-/cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-8/arch-arm/usr/include/GLES2/gl2.h:
+/cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-15/arch-arm/usr/include/GLES2/gl2.h:
 
-/cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-8/arch-arm/usr/include/GLES2/gl2ext.h:
+/cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-15/arch-arm/usr/include/GLES2/gl2ext.h:
 
 /cygdrive/g/gamedev/cocos2d-x-2.2.2/cocos2d-x-2.2.2/projects/NoOneDie/proj.android/../../../cocos2dx/shaders/ccGLStateCache.h:
 
@@ -314,7 +314,7 @@ obj/local/armeabi/objs/cocos_extension_static/AssetsManager/AssetsManager.o: \
 
 /cygdrive/g/gamedev/cocos2d-x-2.2.2/cocos2d-x-2.2.2/projects/NoOneDie/proj.android/../../../cocos2dx/kazmath/include/kazmath/vec3.h:
 
-/cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-8/arch-arm/usr/include/assert.h:
+/cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-15/arch-arm/usr/include/assert.h:
 
 /cygdrive/g/gamedev/cocos2d-x-2.2.2/cocos2d-x-2.2.2/projects/NoOneDie/proj.android/../../../cocos2dx/kazmath/include/kazmath/mat3.h:
 
@@ -366,7 +366,7 @@ obj/local/armeabi/objs/cocos_extension_static/AssetsManager/AssetsManager.o: \
 
 /cygdrive/g/gamedev/cocos2d-x-2.2.2/cocos2d-x-2.2.2/projects/NoOneDie/proj.android/../../../cocos2dx/support/data_support/uthash.h:
 
-/cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-8/arch-arm/usr/include/inttypes.h:
+/cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-15/arch-arm/usr/include/inttypes.h:
 
 /cygdrive/g/gamedev/cocos2d-x-2.2.2/cocos2d-x-2.2.2/projects/NoOneDie/proj.android/../../../cocos2dx/cocoa/CCArray.h:
 
@@ -650,17 +650,17 @@ obj/local/armeabi/objs/cocos_extension_static/AssetsManager/AssetsManager.o: \
 
 /cygdrive/g/gamedev/cocos2d-x-2.2.2/cocos2d-x-2.2.2/projects/NoOneDie/proj.android/../../../cocos2dx/platform/third_party/android/prebuilt/libcurl/include/curl/curlbuild.h:
 
-/cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-8/arch-arm/usr/include/sys/socket.h:
+/cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-15/arch-arm/usr/include/sys/socket.h:
 
-/cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-8/arch-arm/usr/include/linux/socket.h:
+/cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-15/arch-arm/usr/include/linux/socket.h:
 
-/cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-8/arch-arm/usr/include/asm/socket.h:
+/cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-15/arch-arm/usr/include/asm/socket.h:
 
-/cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-8/arch-arm/usr/include/asm/sockios.h:
+/cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-15/arch-arm/usr/include/asm/sockios.h:
 
-/cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-8/arch-arm/usr/include/linux/sockios.h:
+/cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-15/arch-arm/usr/include/linux/sockios.h:
 
-/cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-8/arch-arm/usr/include/linux/uio.h:
+/cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-15/arch-arm/usr/include/linux/uio.h:
 
 /cygdrive/g/gamedev/cocos2d-x-2.2.2/cocos2d-x-2.2.2/projects/NoOneDie/proj.android/../../../cocos2dx/platform/third_party/android/prebuilt/libcurl/include/curl/curlrules.h:
 
@@ -672,30 +672,30 @@ obj/local/armeabi/objs/cocos_extension_static/AssetsManager/AssetsManager.o: \
 
 /cygdrive/g/gamedev/cocos2d-x-2.2.2/cocos2d-x-2.2.2/projects/NoOneDie/proj.android/../../../cocos2dx/platform/third_party/android/prebuilt/libcurl/include/curl/easy.h:
 
-/cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-8/arch-arm/usr/include/sys/stat.h:
+/cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-15/arch-arm/usr/include/sys/stat.h:
 
-/cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-8/arch-arm/usr/include/linux/stat.h:
+/cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-15/arch-arm/usr/include/linux/stat.h:
 
-/cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-8/arch-arm/usr/include/endian.h:
+/cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-15/arch-arm/usr/include/endian.h:
 
-/cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-8/arch-arm/usr/include/sys/endian.h:
+/cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-15/arch-arm/usr/include/sys/endian.h:
 
-/cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-8/arch-arm/usr/include/machine/endian.h:
+/cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-15/arch-arm/usr/include/machine/endian.h:
 
-/cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-8/arch-arm/usr/include/errno.h:
+/cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-15/arch-arm/usr/include/errno.h:
 
-/cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-8/arch-arm/usr/include/linux/errno.h:
+/cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-15/arch-arm/usr/include/linux/errno.h:
 
-/cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-8/arch-arm/usr/include/asm/errno.h:
+/cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-15/arch-arm/usr/include/asm/errno.h:
 
-/cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-8/arch-arm/usr/include/asm-generic/errno.h:
+/cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-15/arch-arm/usr/include/asm-generic/errno.h:
 
-/cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-8/arch-arm/usr/include/asm-generic/errno-base.h:
+/cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-15/arch-arm/usr/include/asm-generic/errno-base.h:
 
 /cygdrive/g/gamedev/cocos2d-x-2.2.2/cocos2d-x-2.2.2/projects/NoOneDie/proj.android/../../../cocos2dx/support/zip_support/unzip.h:
 
-/cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-8/arch-arm/usr/include/zlib.h:
+/cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-15/arch-arm/usr/include/zlib.h:
 
-/cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-8/arch-arm/usr/include/zconf.h:
+/cygdrive/g/gamedev/android-ndk-r9c-windows-x86/android-ndk-r9c/platforms/android-15/arch-arm/usr/include/zconf.h:
 
 /cygdrive/g/gamedev/cocos2d-x-2.2.2/cocos2d-x-2.2.2/projects/NoOneDie/proj.android/../../../cocos2dx/support/zip_support/ioapi.h:
